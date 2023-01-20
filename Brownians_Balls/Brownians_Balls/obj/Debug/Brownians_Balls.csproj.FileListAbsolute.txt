@@ -1,0 +1,13 @@
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\bin\Debug\Brownians_Balls.exe.config
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\bin\Debug\Brownians_Balls.exe
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\bin\Debug\Brownians_Balls.pdb
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.csproj.AssemblyReference.cache
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.csproj.SuggestedBindingRedirects.cache
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.Form1.resources
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.Properties.Resources.resources
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.csproj.GenerateResource.cache
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.csproj.CoreCompileInputs.cache
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.exe
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.pdb
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\bin\Debug\GDIDrawer.dll
+C:\Users\aarriba2\source\repos\CSharp_Applications\Brownians_Balls\Brownians_Balls\obj\Debug\Brownians_Balls.csproj.CopyComplete

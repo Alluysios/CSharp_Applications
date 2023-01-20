@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EA0A4494-1807-4302-B85E-3E65E6A81D36}</ProjectGuid>
+    <ProjectGuid>{7E3981F8-A24C-4E3F-9897-B682B4D9F4EA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Brownians_Balls</RootNamespace>
-    <AssemblyName>Brownians_Balls</AssemblyName>
+    <RootNamespace>BouncyBalls</RootNamespace>
+    <AssemblyName>BouncyBalls</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="GDIDrawer">
-      <HintPath>..\..\..\..\..\Downloads\GDIDrawer.dll</HintPath>
+      <HintPath>..\..\GDIDrawer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cball.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
